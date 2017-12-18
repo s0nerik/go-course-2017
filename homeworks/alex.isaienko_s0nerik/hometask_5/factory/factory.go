@@ -1,8 +1,8 @@
 package factory
 
 import (
-	"github.com/s0nerik/go-course-2017/homeworks/alex.isaienko_s0nerik/hometask_5/figures"
 	"math/rand"
+	"go-course-2017/homeworks/alex.isaienko_s0nerik/hometask_5/figures"
 )
 
 const (

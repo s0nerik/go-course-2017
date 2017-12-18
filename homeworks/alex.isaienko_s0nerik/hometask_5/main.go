@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 	"strconv"
-	"github.com/s0nerik/go-course-2017/homeworks/alex.isaienko_s0nerik/hometask_5/sortable"
 	"sort"
+	"go-course-2017/homeworks/alex.isaienko_s0nerik/hometask_5/sortable"
 )
 
 func main() {

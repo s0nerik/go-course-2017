@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 	"sort"
-	"go-course-2017/homeworks/alex.isaienko_s0nerik/hometask_5/sortable"
+	"github.com/MastersAcademy/go-course-2017/homeworks/alex.isaienko_s0nerik/hometask_5/sortable"
 )
 
 func main() {

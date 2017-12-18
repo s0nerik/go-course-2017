@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 	"math/rand"
-	"go-course-2017/homeworks/alex.isaienko_s0nerik/hometask_5/figures"
-	"go-course-2017/homeworks/alex.isaienko_s0nerik/hometask_5/factory"
+	"github.com/MastersAcademy/go-course-2017/homeworks/alex.isaienko_s0nerik/hometask_5/figures"
+	"github.com/MastersAcademy/go-course-2017/homeworks/alex.isaienko_s0nerik/hometask_5/factory"
 )
 
 type FiguresSlice []*figures.Figure
